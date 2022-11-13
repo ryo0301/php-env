@@ -1,4 +1,4 @@
 <pre>
-<?php print_r($_SERVER) ?>
+<?php print_r(getallheaders()) ?>
 </pre>
 
